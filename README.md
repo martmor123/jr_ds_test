@@ -13,20 +13,19 @@ You will have 10 minutes to present your findings and you can use any tool of yo
 ## What we are expecting to see
 
 - Data findings derived from a clear data exploration process
-- Realiable machine learning model - you will be asked to explain the metrics used for the evaluation
+- Reliable machine learning model - you will be asked to explain the metrics used for the evaluation
 - We want to see an organized methodology for resolving Data Science problems: Data Cleaning,Transformation, Training/Testing and Predictions
 - Link between your proposed retention programs and findings from the data
+- Submit your work creating a github repository
 
 
 ## What makes you stand out
 
-You will have extra points if you can show the ability to build reproductable Machine Learning models. 
-
-- Submit your work creating a github repository
+You will have extra points if you can show the ability to build reproducible Machine Learning models. 
 
 - Include a requirements.txt or a enviroment.yml file so that we can reproduce your code
 
-- Include clear documentation on your github branch
+- Include clear documentation on your github repository
 
 ## Data
 
