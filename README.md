@@ -22,7 +22,7 @@ You will have 10 minutes to present your findings and you can use any tool of yo
 
 You will have extra points if you can show the ability to build reproductable Machine Learning models. 
 
-- Submit your work creating a pull request to this repository, naming your branch with your name and surname: carlos_lopez
+- Submit your work creating a github repository
 
 - Include a requirements.txt or a enviroment.yml file so that we can reproduce your code
 
