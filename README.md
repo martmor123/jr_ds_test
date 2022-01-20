@@ -1,14 +1,36 @@
 ### JR Data Scientist - Skill Test
 
-The intent of this repository is to provide a business case that all applicants will need to resolve as part of the selection process for a Data Scientist role. By no means, we are expecting to profit from this exercise and all resources used are publicly available.
+The intent of this repository is to provide a business case that applicants will need to resolve as part of the selection process for a Data Scientist role. By no means, we are expecting to profit from this exercise and all resources used are publicly available.
 
 ## Problem Statement
 
-You are being provided with the Telco Customer Churn data from the Kaggle IBM Sample Datasets. You are required to create a model to predict customer churn as well as proposing 5 client retention programs to increase engagement.
+You are being provided with the Telco Customer Churn data from the Kaggle IBM Sample Datasets. You are required to create a **Python** model to predict customer churn as well as proposing 5 client retention programs to increase engagement. 
+
+
+You will have 10 minutes to present your findings and you can use any tool of your preference: Powerpoint, Jupyter Notebooks, Deepnote, GoogleColab, etc.
+
+
+## What we are expecting to see
+
+- Data findings derived from a clear data exploration process
+- Realiable machine learning model - you will be asked to explain the metrics used for the evaluation
+- We want to see an organized methodology for resolving Data Science problems: Data Cleaning,Transformation, Training/Testing and Predictions
+- Link between your proposed retention programs and findings from the data
+
+
+## What makes you stand out
+
+You will have extra points if you can show the ability to build reproductable Machine Learning models. 
+
+- Submit your work creating a pull request to this repository, naming your branch with your name and surname: carlos_lopez
+
+- Include a requirements.txt or a enviroment.yml file so that we can reproduce your code
+
+- Include clear documentation on your github branch
 
 ## Data
 
-You can find the data in here 
+You can find the data in here [Data](https://github.com/martmor123/jr_ds_test/tree/master/data) 
 
 - customerID: Customer ID
 - gender: Whether the customer is a male or a female
@@ -33,4 +55,4 @@ You can find the data in here
 - Churn: Whether the customer churned or not (Yes or No)
 
 
-
+Good luck!!
