@@ -1,0 +1,20 @@
+MARSH MCLENNAN - JUNIOR DATA SCIENTIST TEST - ALAN ROMERO VERA
+
+#Provided with the Telco Customer Churn data from the Kaggle IBM Sample Datasets, 
+#create a Python model to predict customer churn as well as proposing 5 client retention programs to increase engagement.
+
+This test was done using a random forest classifier.
+
+The following requirements are necessary to ensure the correcct replication of the machine learning model used in the test:
+
+  1- Python 3.0
+  2- Jupyter environment
+  3- The following libraries (available for installation within the submitted notebook)
+      -numpy
+      -pandas
+      -seaborn
+      -matplotlib
+      -sklearn
+      
+
+-Alan Romero Vera :)
